@@ -4,7 +4,7 @@
 🧑‍🎓 I’m currently learning Full Stack Software Engineering.
 🧑‍🎓 I'm a Professional Leveal Graphic Designer 
 🤓 Always Learning new Things.
-💥 Stay Tuned ofr My New Web Site...
+💥 Stay Tuned for My New Web Site...
 ⚡ Fun fact I'm the Best With UX and UI.
 
 <!---

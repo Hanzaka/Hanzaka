@@ -1,20 +1,21 @@
-<h2 align="center">Sneak Peak About Me</h2>
+<h2 align="center">👋 Hi, I'm Hansaka Kawshal</h2>
 
 <p align="center">
-  I Am A Software Engineering Undergraduate At <strong>CINEC Campus</strong> With A Strong Passion For 
-  <strong>UI/UX Design</strong> And <strong>Full-Stack Development</strong>.
+  <strong>Software Engineering Undergraduate | UI/UX Designer | Full-Stack Developer</strong>
 </p>
 
 <p align="center">
-  I Enjoy Creating User-Friendly Interfaces, Developing Responsive Applications, And Solving 
-  Real-World Problems Through Technology.
+  I'm a Software Engineering undergraduate at <strong>CINEC Campus</strong>, passionate about 
+  <strong>UI/UX Design</strong> and <strong>Full-Stack Development</strong>.
+  I enjoy creating clean, user-friendly interfaces and building modern applications that solve 
+  real-world problems.
 </p>
 
 <p align="center">
-  I Am Continuously Learning And Improving My Technical And Creative Skills, With The Goal Of 
-  Becoming A Skilled <strong>Full-Stack Software Engineer</strong>.
+  I'm continuously learning, improving my technical skills, and turning ideas into 
+  <strong>modern, meaningful, and user-focused digital solutions</strong>.
 </p>
 
 <p align="center">
-  I Want To Build Modern, Meaningful, And User-Focused Digital Solutions.
+  🚀 <strong>My Goal:</strong> To become a skilled Full-Stack Software Engineer.
 </p>
